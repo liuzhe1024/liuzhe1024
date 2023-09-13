@@ -28,7 +28,7 @@ function bar() {
 }
 bar();
 ```
-在文章【[JS：深入理解JavaScript-词法环境](https://limeii.github.io/2019/05/js-lexical-environment/)】提到过JavaScript是静态作用域，词法环境是由代码结构决定的，开发把代码写成什么样，词法环境就是怎么样，跟方法在哪里调用没有关系。在文章【[JS：深入理解JavaScript-执行上下文](https://limeii.github.io/2019/05/js-execution-context/)】介绍了执行上下文会给每个方法创建词法环境。
+在文章【[JS：深入理解JavaScript-词法环境](/2023/05/js-lexical-environment/)】提到过JavaScript是静态作用域，词法环境是由代码结构决定的，开发把代码写成什么样，词法环境就是怎么样，跟方法在哪里调用没有关系。在文章【[JS：深入理解JavaScript-执行上下文](https://limeii.github.io/2019/05/js-execution-context/)】介绍了执行上下文会给每个方法创建词法环境。
 
 我们来看下上面代码在创建执行上下文但是还没有被执行之前的词法环境：
 

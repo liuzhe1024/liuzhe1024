@@ -192,4 +192,4 @@ Uncaught ReferenceError: c is not defined
     at <anonymous>:8:1
 ```
 
-在这篇文章里，介绍了```Lexical Environment```，它是在V8引擎词法分析阶段用来登记变量的，这样在引擎真正执行代码的时候，就知道去哪里拿变量的值，那代码在执行的过程中，具体又做了什么呢？在下篇文章【[JS：深入理解JavaScript-执行上下文](https://limeii.github.io/2019/05/js-execution-context/)】会详细介绍。
+在这篇文章里，介绍了```Lexical Environment```，它是在V8引擎词法分析阶段用来登记变量的，这样在引擎真正执行代码的时候，就知道去哪里拿变量的值，那代码在执行的过程中，具体又做了什么呢？在下篇文章【[JS：深入理解JavaScript-执行上下文](/2023/05/js-execution-context/)】会详细介绍。
