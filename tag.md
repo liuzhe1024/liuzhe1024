@@ -28,5 +28,5 @@ layout: post
 - [深入理解HTTPS](https://liuzhe1024.github.io/2022/11/deep-understanding-https/)
 
 **Webpack系列：**
-- [webpack：如何解决浏览器缓存问题](https://liuzhe1024.github.io/2018/10/webpack-caching/)
-- [webpack：优化打包CSS文件](https://liuzhe1024.github.io/2018/10/webpack-css-extract/)
+- [webpack：如何解决浏览器缓存问题](https://liuzhe1024.github.io/2022/10/webpack-caching/)
+- [webpack：优化打包CSS文件](https://liuzhe1024.github.io/2022/10/webpack-css-extract/)
