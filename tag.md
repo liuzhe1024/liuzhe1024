@@ -26,7 +26,13 @@ layout: post
 - [浏览器数据存储方式](https://liuzhe1024.github.io/2022/11/web-storage/)
 - [浏览器缓存机制：强缓存和协商缓存](https://liuzhe1024.github.io/2022/11/web-cache/)
 - [深入理解HTTPS](https://liuzhe1024.github.io/2022/11/deep-understanding-https/)
-
+**简历相关：**
+- 快手多维表格（轻雀文档）[体验地址](https://docs.qingque.cn/m/home/eZQB-rv8sTQ4hITT8F5VASvCx?identityId=21BTW62THMa#section=vw35249284ad564432a58cf84be21b52f5)
+- Omi看板kanban
+  - Github地址：[https://github.com/Tencent/omi](https://github.com/Tencent/omi)
+  - 看板视图 体验地址：[https://omi.cdn-go.cn/admin/latest/index.html#/kanban-component](https://omi.cdn-go.cn/admin/latest/index.html#/kanban-component)
+- [NFT平台数据库文档](https://liuzhe1024.github.io/2022/04/NFT平台数据库文档/)
+- [NFT平台接口文档](https://liuzhe1024.github.io/2022/04/NFT平台接口文档/)
 **Webpack系列：**
 - [webpack：如何解决浏览器缓存问题](https://liuzhe1024.github.io/2022/10/webpack-caching/)
 - [webpack：优化打包CSS文件](https://liuzhe1024.github.io/2022/10/webpack-css-extract/)
